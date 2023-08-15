@@ -1,4 +1,4 @@
-#### Hello, and Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+#### Hello there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Editha
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47tcf11oev0ipk3pcfz38r502njcytndip46ekht3x&rid=giphy.gif&ct=s" width="200"/>
@@ -17,7 +17,7 @@
 
 #### :woman_technologist: About Me :
 
-I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with UI/UX design skills. I'm based in Stockholm, Sweden.
+I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with Frontend and UI/UX design skills. I'm based in Stockholm, Sweden.
 
 - :female_detective: I have personal skills including learning agility, problem-solving, hard-working, critical thinking, attention to detail, like learn new, supportive, goal achieving, friendly, time management, stress-resistant, teamwork and analytical thinking.
 
@@ -37,7 +37,7 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   - Richard Branson - Let's Not Screw It, Let's Just Do It <br/>
 </details>
 
-Technologies I've been learning and using so far :
+:hammer_and_wrench: Technologies I've been learning and using so far :
 
 - Frontend : <br />
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
