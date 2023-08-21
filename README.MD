@@ -76,30 +76,5 @@ I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![Contentful](https://img.shields.io/badge/-CDN:Contentful-333333?style=flat)&nbsp;
 ![GoogleCloudStorage](https://img.shields.io/badge/-CDN:GoogleCloudStorage-333333?style=flat)&nbsp;
 
-- Reach me out: 
-[![Linkedin Badge](https://img.shields.io/badge/Editha-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-pchelenkov/) or edithtrinitaria@gmail.com
-
----
-
- :hammer_and_wrench: Languages and Tools:
-
-<div aligne="center">
-<!--   https://img.shields.io icons-->
-  
-  <img src="https://img.shields.io/badge/JavaScript-F1C40F?style=for-the-badge&logo=JavaScript&logoColor=white" />  
-  <img src="https://img.shields.io/badge/react-21618C?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/redux_toolkit-21618C?style=for-the-badge&logo=redux_toolkit&logoColor=white" />
-  <img src="https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql&logoColor=DeepPink" />
-  <img src="https://img.shields.io/badge/html5-27AE60?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/jsx-1ABC9C?style=for-the-badge&logo=jsx&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-2ECC71?style=for-the-badge&logo=node.js&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/git-CB4335?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-A93226?style=for-the-badge&logo=github&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/css3-DC7633?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/vscode-9A7D0A?style=for-the-badge&logo=vscode&logoColor=white" />
-</div>
-
----
+- Connect with me: 
+[![Linkedin Badge](https://img.shields.io/badge/Editha-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edtrinitaria/) or edithtrinitaria@gmail.com
