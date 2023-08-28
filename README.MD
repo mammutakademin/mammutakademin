@@ -1,5 +1,3 @@
-<img src="https://unsplash.com/photos/DJ7bWa-Gwks" />
-
 ## Hi there 👋
 I'm Editha
 
