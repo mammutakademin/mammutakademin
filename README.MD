@@ -15,28 +15,6 @@
 
 ---
 
-#### :woman_technologist: About Me :
-
-I'm a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with Frontend and UI/UX design skills. I'm based in Stockholm, Sweden.
-
-- :female_detective: I have personal skills including learning agility, problem-solving, hard-working, critical thinking, attention to detail, like learn new, supportive, goal achieving, friendly, time management, stress-resistant, teamwork and analytical thinking.
-
-- I have :computer: skills that include JavaScript, React.js, ReactNative, Axios/REST API, Postman, Git/GitHub, node.js.
-
-- Full :battery: energy.
-
-- I like to read 
-<details>
-  <summary> 
-    <strong>
-      :books:'s books
-    </strong>
-  </summary>
-  - Robert Kiyosaki - Rich Dad Poor Dad <br/>
-  - Dale Carnegie - How to Stop Worrying and Start Living <br/>
-  - Richard Branson - Let's Not Screw It, Let's Just Do It <br/>
-</details>
-
 :hammer_and_wrench: Technologies I've been learning and using so far :
 
 - Frontend : <br />
