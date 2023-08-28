@@ -32,9 +32,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Express.JS](https://img.shields.io/badge/-Express.JS-333333?style=flat&logo=Express.JS)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
-![Google Cloud Platform](https://img.shields.io/badge/-GoogleCloudPlatform-333333?style=flat&logo=google-cloud)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)&nbsp;
 
 - IDE & Tools : <br />
@@ -43,17 +41,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)&nbsp;
 
-- Testing : <br />
-![Test](https://img.shields.io/badge/-ReactTestingLibrary-333333?style=flat)&nbsp;
-![Test](https://img.shields.io/badge/-SuperTest-333333?style=flat)&nbsp;
-![Test](https://img.shields.io/badge/-Chai-333333?style=flat)&nbsp;
-![Test](https://img.shields.io/badge/-Mocha-333333?style=flat)&nbsp;
-
 - Others: <br />
-![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe)&nbsp;
-![Cloudinary](https://img.shields.io/badge/-CDN:Cloudinary-333333?style=flat)&nbsp;
 ![Contentful](https://img.shields.io/badge/-CDN:Contentful-333333?style=flat)&nbsp;
-![GoogleCloudStorage](https://img.shields.io/badge/-CDN:GoogleCloudStorage-333333?style=flat)&nbsp;
 
 - Connect with me: 
 [![Linkedin Badge](https://img.shields.io/badge/Editha-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edtrinitaria/) or edithtrinitaria@gmail.com
