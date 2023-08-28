@@ -1,4 +1,6 @@
-#### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://unsplash.com/photos/DJ7bWa-Gwks" />
+
+## Hi there 👋
 #### I'm Editha
 
 <div id="header" align="center">
