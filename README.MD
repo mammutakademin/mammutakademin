@@ -4,7 +4,8 @@
 I'm Editha
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e47tcf11oev0ipk3pcfz38r502njcytndip46ekht3x&rid=giphy.gif&ct=s" width="200"/>
+
+  <img src="https://64.media.tumblr.com/d7a1f8632a1327e565559b8a85c8c727/tumblr_ntti6fb1zB1tlb56zo1_400.gifv" width="200"/>
 </div>
 
 <div id="badges" align="center">
