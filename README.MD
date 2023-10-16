@@ -5,7 +5,7 @@ I'm Editha
 
 <div id="header" align="center">
 
-  <img src="https://64.media.tumblr.com/d7a1f8632a1327e565559b8a85c8c727/tumblr_ntti6fb1zB1tlb56zo1_400.gifv" width="200"/>
+  <img src="https://i.pinimg.com/originals/ad/f7/0e/adf70ec891e9ab55a2da0246c6d69e3f.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
